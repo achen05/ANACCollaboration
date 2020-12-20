@@ -1,0 +1,22 @@
+@font-face {
+  font-family: texgyreheros;
+  src: url("texgyreheros-regular.otf");
+}
+
+body {
+
+}
+
+p {
+  font-family: texgyreheros;
+}
+
+.userInformationContainer {
+  width: 100%;
+  padding-top: 20%;
+}
+
+.userPhoto {
+  border-radius: 50%;
+  width: 80px;
+}
